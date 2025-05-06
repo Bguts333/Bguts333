@@ -22,16 +22,6 @@ Hello everyone im Bagus Saputro students at Esa Unggul University
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
-<p align="left">Play Game With Me</p>
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph.svg">
-</picture>
-###
-<img src="https://raw.githubusercontent.com/Bguts333/Bguts333/output/snake.svg" alt="Snake animation" />
-###
+
 
 
