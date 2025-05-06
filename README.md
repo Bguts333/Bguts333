@@ -11,25 +11,8 @@ Hello everyone im Bagus Saputro students at Esa Unggul University
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Bguts333&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bguts333&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<p align="left">Hello World!!</p>
 
-###
 
-<p align="left">Play Game With Me</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bguts333/Bguts333/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -38,3 +21,15 @@ Hello everyone im Bagus Saputro students at Esa Unggul University
 [![](https://visitcount.itsvg.in/api?id=Bguts333&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+<p align="left">Play Game With Me</p>
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bguts333/Bguts333/output/pacman-contribution-graph.svg">
+</picture>
+###
+<img src="https://raw.githubusercontent.com/Bguts333/Bguts333/output/snake.svg" alt="Snake animation" />
+###
